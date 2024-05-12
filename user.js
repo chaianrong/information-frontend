@@ -1,4 +1,4 @@
-const BASE_URL = "https://information-backend.onrender.com";
+const BASE_URL = "https://information-frontend.onrender.com";
 
 window.onload = async () => {
     await londdata();
